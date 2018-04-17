@@ -59,4 +59,15 @@ body {
   min-height: 100%;
   position: relative; }
 
+.content-padding {
+  padding: 0px 30px 100px 30px; }
+
+#contact form input {
+  padding: 3px;
+  margin: 3px; }
+
+#blog h1,
+#blog p {
+  color: white; }
+
 /*# sourceMappingURL=style.css.map */
