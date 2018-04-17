@@ -1,0 +1,17 @@
+header {
+  background-color: $primary-color;
+  display: flex;
+  flex-wrap: wrap;
+
+  #logo-header {
+    width: 14%;
+    padding: 10px;
+  }
+
+  h1 {
+   padding: 10px;
+   color: white;
+   margin-left: 3px;
+   font-weight: 300;
+  }
+}

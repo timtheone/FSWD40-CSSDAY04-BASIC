@@ -1,0 +1,24 @@
+// SCSS VARIABLES
+
+$primary-color: #E05151;
+$font: 'Open Sans', sans-serif;
+
+@import 'header';
+@import 'navigation';
+@import 'arcticle';
+@import 'footer';
+
+html,
+body {
+  font-family: $font;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
